@@ -8,3 +8,7 @@ Pueden hacer lo que quieran...
 
 ### Archivo actualizado desde Github
 Mensaje puesto desde Github
+
+
+### Hola Mundo 
+Probando git config --global pull.ff only
